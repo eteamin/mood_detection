@@ -22,3 +22,5 @@ class MoodDetector:
 
             if len(smile) > 0:
                 return 'Happy!'
+
+            # TODO:  implement other moods
